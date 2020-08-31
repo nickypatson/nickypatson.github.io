@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "63LVTXX265.com.digicelgroup.topup",
+      "paths": ["*"]
+    },
+    {
+      "appID": "63LVTXX265.com.digicelgroup.topup.uat",
+      "paths": ["*"]
+    },
+    {
+      "appID": "63LVTXX265.com.digicelgroup.topup.debug",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
