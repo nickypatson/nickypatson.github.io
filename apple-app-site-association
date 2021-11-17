@@ -4,11 +4,11 @@
     "details": [
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy",
-      "paths": ["*"]
+      "paths": ["/email-verified"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.uat",
-      "paths": ["*"]
+      "paths": ["/email-verified"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.dev",
