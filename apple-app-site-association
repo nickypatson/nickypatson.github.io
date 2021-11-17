@@ -3,16 +3,16 @@
     "apps": [],
     "details": [
     {
-      "appID": "63LVTXX265.com.digicelgroup.topup",
-      "paths": ["*"]
+      "appID": "5J7S6UQ832.com.crazam.dublin.academy",
+      "paths": ["/email-verified"]
     },
     {
-      "appID": "63LVTXX265.com.digicelgroup.topup.uat",
-      "paths": ["*"]
+      "appID": "5J7S6UQ832.com.crazam.dublin.academy.uat",
+      "paths": ["/email-verified"]
     },
     {
-      "appID": "63LVTXX265.com.digicelgroup.topup.debug",
-      "paths": ["*"]
+      "appID": "5J7S6UQ832.com.crazam.dublin.academy.dev",
+      "paths": ["/email-verified"]
     }
     ]
   }
