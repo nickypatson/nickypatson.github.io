@@ -4,15 +4,15 @@
     "details": [
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy",
-      "paths": ["/email-verified"]
+      "paths": ["*"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.uat",
-      "paths": ["/email-verified"]
+      "paths": ["*"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.dev",
-      "paths": ["/email-verified"]
+      "paths": ["*"]
     }
     ]
   }
