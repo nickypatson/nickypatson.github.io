@@ -12,7 +12,7 @@
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.dev",
-      "paths": ["*"]
+      "paths": ["/email-verified"]
     }
     ]
   }
