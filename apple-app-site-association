@@ -4,15 +4,15 @@
     "details": [
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy",
-      "paths": ["/email-verified","/papers/saved/*"]
+      "paths": ["/email-verified","/papers/saved/*/copy"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.uat",
-      "paths": ["/email-verified","/papers/saved/*"]
+      "paths": ["/email-verified","/papers/saved/*/copy"]
     },
     {
       "appID": "5J7S6UQ832.com.crazam.dublin.academy.dev",
-      "paths": ["/email-verified","/papers/saved/*"]
+      "paths": ["/email-verified","/papers/saved/*/copy"]
     }
     ]
   }
